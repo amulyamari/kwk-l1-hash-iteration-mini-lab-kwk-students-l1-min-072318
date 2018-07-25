@@ -4,7 +4,7 @@ summer_olympics={
   Athens: "2004",
   Beijing: "2008",
   London: "2012",
-}.upcase
+}
 end
 
 def add_a_key_value_pair
