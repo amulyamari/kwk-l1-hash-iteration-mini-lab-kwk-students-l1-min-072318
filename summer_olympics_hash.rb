@@ -5,6 +5,7 @@ summer_olympics={
   Beijing: "2008",
   London: "2012",
 }
+end
 
 def add_a_key_value_pair
 summer_olympics= new_hash
