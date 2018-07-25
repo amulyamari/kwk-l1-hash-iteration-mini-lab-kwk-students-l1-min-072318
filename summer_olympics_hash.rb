@@ -1,7 +1,7 @@
 
 summer_olympics={
-  "sydney"=>"2000"
+  :sydney=>:2000
   "Athens"=>"2004"
-  "favorite color"=>"mint green"
-  
+  "beijing"=>"2008"
+  "london"=>"2012"
 }
