@@ -5,3 +5,9 @@ summer_olympics={
   Beijing: =>:"2008",
   London: =>:"2012",
 }
+
+def add_a_key_value_pair
+summer_olympics= new_hash
+new_hash[:Atlanta]="1996"
+new_hash
+end
